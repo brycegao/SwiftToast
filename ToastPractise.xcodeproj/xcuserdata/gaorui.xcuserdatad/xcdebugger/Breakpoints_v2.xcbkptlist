@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "ToastPractise/ExtensionToast.swift"
+            timestampString = "505663389.193005"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "255"
+            endingLineNumber = "255"
+            landmarkName = "showToastExt(text:pos:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToastPractise.ToastView.showToastExt (text : Swift.String, pos : ToastPractise.ToastView.Position) -&gt; ()"
+                  moduleName = "ToastPractise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaorui/Desktop/iOS%E7%A8%8B%E5%BA%8F/%E7%BB%83%E4%B9%A0/Toast/ToastPractise/ToastPractise/ExtensionToast.swift"
+                  timestampString = "505662799.877444"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "2730">
+               </Location>
+               <Location
+                  shouldBeEnabled = "No"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "ToastPractise.ToastView.showToastExt (text : Swift.String, pos : ToastPractise.ToastView.Position) -&gt; ()"
+                  moduleName = "ToastPractise"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gaorui/Desktop/iOS%E7%A8%8B%E5%BA%8F/%E7%BB%83%E4%B9%A0/Toast/ToastPractise/ToastPractise/ExtensionToast.swift"
+                  timestampString = "505662799.880004"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "254"
+                  endingLineNumber = "254"
+                  offsetFromSymbolStart = "11759">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
